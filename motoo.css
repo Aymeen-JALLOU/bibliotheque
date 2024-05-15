@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Gurmukhi:wght@100..800&family=Orbitron:wght@400..900&display=swap');
+.bar{
+
+    background-color:rgba(1, 1, 1, 0.992);
+    padding: 60px;
+    margin-left: -8px;
+    margin-right: -50px;
+    margin-top: -10px;
+    margin-bottom: 50px;
+}
+.title{
+    font-family: "Orbitron", sans-serif;
+    margin-top: -80px;
+    margin-left: 90px;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    margin-bottom: 10px;
+   
+}
+.logo{
+    margin-top: -20px;
+    margin-left: 20px;
+   
+
+}
+.bar1{
+    background-color: rgba(5, 4, 4, 0.822);
+    padding: 30px;
+    margin-left: -8px;
+    margin-right: -50px;
+}
+.bar1 ul  li{
+    color: rgb(155, 7, 7);
+    list-style: none;
+    padding-left: 30px;
+    display: inline;
+    margin-top: -80px;
+    margin-left: 60px;
+    font-style: unset;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: red;
+}
+.acc{
+    margin-left: 200px;
+  
+}
+a:hover{
+    color: white;
+}
+span{
+    visibility: hidden;
+}
+video{
+    width: 104%;
+    height: 50%;
+    margin-top: -180px;
+    margin-left: -8px;
+}
+.B{
+    display: inline;
+}
+L{
+    margin-left: 90px;
+    margin-right: 40px;
+}
+.p1{
+    color: white;
+    margin-left: 60px;
+   margin-top: -600px;
+   font-size: 20px;
+   font-style: unset;
+}
+.p2{
+    color: white;
+    margin-left: 60px;
+   margin-top: 60px;
+   font-size: 60px;
+   font-style: unset;
+}
+ .p3{
+    color: white;
+    margin-left: 60px;
+    margin-top: 8px;
+    font-size: 30px;
+    font-style: inherit;
+ }
+
+    .btn {
+    
+    
+     
+     
+     
+    
+        display: inline-block;
+        padding: 10px 10px;
+        background-color: red;
+        color: #fff;
+        text-decoration: none;
+        border: none;
+        border-radius: 5px;
+        margin-left: 800px;
+      }
+      
+
+button:hover{
+    background-color: white;
+    color: red;
+}
+.bar1 hr{
+    background-color: red;
+    color: red;
+   
+    
+   
+}
+.desvid{
+    background-color: white;
+    margin-top: 70px;
+    color: white;
+}
+.destitle{
+    margin-left: 20%;
+}

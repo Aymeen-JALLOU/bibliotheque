@@ -1,0 +1,46 @@
+body {
+    background-image: url('https://images.ctfassets.net/x7j9qwvpvr5s/dDwmTSO1oW4y4caQqim26/b5bf5b7f546a8d1416157c1fd87dc2e3/Panigale-V4R-Red-Studio-MY19-01-Video-Full-1330x748.jpg');
+
+    background-size: cover; 
+    background-position: center;
+    background-attachment: fixed; 
+    
+}
+button{
+    
+        border: 4px snow rgb(74, 67, 67);
+        border-radius: 8px;
+        padding: 55px;
+        background: transparent;
+
+
+}
+.homme{
+    color:white;
+    margin-top: 10%;
+    padding: auto;
+    margin-left: 50%;
+  
+}
+.sport{
+    color:white;
+    margin-top: -60px;
+    margin-left: 65%;
+ 
+}
+.SUPERSPORT{
+    color:white;
+    margin-top: 10%;
+    margin-left: 50%;
+    
+}
+.Streetfighter{
+    color:white;
+    margin-top: -20px;
+    margin-left: 65%;
+  
+}
+a{
+    text-decoration: none;
+    color: white;
+}

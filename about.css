@@ -1,0 +1,55 @@
+*{
+    margin:0px ;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Arial", sans-serif;
+}
+body{
+    background: url('dakarr.png');
+}
+.hero{
+    background-color: rgb(191, 64, 64);
+    overflow: hidden;
+}
+.heading h1{
+    color:rgb(191, 64, 64) ;
+    font-size: 55px;
+    text-align: center;
+    margin-top: 35px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    margin: -25px ;
+    margin-top: 30px;
+}
+.hero-content{
+    margin:0px 25px;
+    flex: 1;
+    width: 600px;
+   
+}
+
+
+.hero-content p{
+    font-size: 54px;
+    line-height: 1.5;
+    margin-bottom: 90px;
+    color: aliceblue;
+    position: center;
+
+}
+.hero-content button{
+    display: inline-block;
+    background: url(dakarr.png);
+    padding: 12px;
+    border-radius: 5px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s ease;
+
+}
+
